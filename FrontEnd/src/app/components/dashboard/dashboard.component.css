@@ -1,0 +1,45 @@
+
+ .container{
+   margin-left: 65px;
+ }
+
+ .cardElement{
+  display: inline; padding-left: 65px; display:flex
+ }
+
+ p {
+  font-family: Lato;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+h3{
+  color: #6E6E6E;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.box {
+  display: inline-table;
+  width: 200px;
+  height: 200px;
+  margin: 1em;
+}
+
+.after-box {
+  clear: left;
+}
+
+.colorTotalA{color:rgb(0,107,180) }
+.colortotalAct{color:rgb(0,120,113) }
+.colortotalDisc{color:rgb(189,39,30) }
+.colortotalP{color:rgb(254,197,20) }
+.colortotalN{color:rgb(100,106,119) }
+
+.bottom {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+}
